@@ -14,6 +14,12 @@ Hacer partir el servidor con rack:
 bundle exec rackup
 ```
 
+## Gemas
+- json
+- sequel
+- shotgun
+- thin
+
 
 
 
